@@ -84,6 +84,6 @@ The online adaptation module significantly reduces prediction error by adapting 
 * **Online-Adapted ADE:** 0.95m | **FDE:** 2.21m
 * **Improvement:** ~16% reduction in displacement error.
 
-## Created By
+## Built By
 
-Built by Faisal Durrani
+Faisal Durrani
